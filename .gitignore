@@ -1,0 +1,11 @@
+# Obsidian cache & plugins
+.obsidian/
+
+# OS / editor junk
+.DS_Store
+*.log
+*.tmp
+
+# Python
+__pycache__/
+*.pyc

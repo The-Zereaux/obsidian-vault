@@ -1,0 +1,97 @@
+# Obsidian configuration
+theme: Default
+new-attachment-tab: false
+useMarkdownTabs: false
+eventBusListeners: []
+hotkeys: {}
+fileTypes:
+  - md
+fileSearch:
+  enable: true
+autoGenerateFrontmatter:
+  enable: true
+  pager: ""
+  separator: " "
+frontmatterLinkFormatting: false
+options:
+  showotron:
+    floatButtons: true
+    fadeButtons: false
+    hideHeader: false
+    hideWithContext: false
+  fileExplorer:
+    showHiddenFiles: true
+    usePreview: false
+    useGitIgnore: false
+  editor:
+    showInlineTitle: true
+    showLineNumber: false
+    showSyntaxTip: true
+    showWordWrapToggle: true
+    showUnsavedChanges: true
+    showCloseBanner: true
+    spellCheck: false
+    autoSpaceEnable: true
+    insertPipe: false
+    newLineMode: system
+    defaultViewMode: preview
+    showRelatedPlugins: true
+  fileRecovery:
+    enable: true
+    keepBackupDays: 7
+    enableOpen: false
+  help:
+    showUpdateNotice: true
+    devToolsLocation: bottom
+    useExplicitFocus: false
+  obsidianSearch:
+    regexFlashing: true
+    listRules: true
+    backlinkFlashing: true
+    showSearchAsYouTypeSuggestions: true
+    showArchivedFiles: false
+    checkFileExistence: true
+  slideLayoutOptions:
+    width: 1280
+    height: 720
+  currency:
+    format: 0.00
+    grouping: 3
+  format:
+    0: 2
+fonts:
+  defaultMonospaceFont: Fira Code
+  defaultFont: Inter
+  displayFont: Inter
+  showTemporaryFileIndicator: true
+  configurableRedditFontFamily: "Noto Sans"
+  obsidianDraftLastUpdatedFontFamily: "Noto Sans"
+  obsidianDraftNoteFieldsInfoFontFamily: "Noto Sans"
+  obsidianDraftSelectionFontFamily: "Noto Sans"
+  obsidianTaggerTagFontFamily: "Noto Sans"
+  obsidianTaggerStatusBarTagFontFamily: "Noto Sans"
+  obsidianTaggerTagInfoFontFamily: "Noto Sans"
+  obsidianTableOfContentsMarkCSSFontFamily: "Noto Sans"
+  obsidianTaggerTreeIconFontFamily: "Noto Sans"
+  obsidianTaggerTreeIconSize: 8
+  obsidianTaggerTagBorderRadius: 4
+  obsidianDraftLastUpdatedFontSizing: 10
+  obsidianDraftNoteFieldsInfoFontsizing: 10
+  obsidianDraftTaggerTreeFontSize: 10
+  obsidianTaggerTagFontSize: 10
+  obsidianTableOfContentsMarkCSSFontSize: 10
+  obsidianDraftSelectionFontSize: 10
+  obsidianTaggerStatusBarTagFontSize: 10
+  obsidianTaggerTagInfoFontSize: 10
+  obsidianDraftTaggerTreeFontSize: 10
+  obsidianTableOfContentsMarkCSSFontWeight: 400
+  obsidianTableOfContentsDateMissingText: Date missing
+  obsidianTableOfContentsTodayTitle: Today
+  obsidianTableOfContentsTomorrowTitle: Tomorrow
+  obsidianTableOfContentsYesterdayTitle: Yesterday
+  obsidianTaggerTagSeparator: ", "
+  obsidianDraftTaggerTreeFileCountOptions: [[0, "0"], [1, "1"], [2, "2"], [3, "3"], [5, "5"], [8, "8"], [10, "10"], [13, "13"], [18, "18"], [22, "22"], [28, "28"], [33, "33"], [38, "38"], [42, "43"], [48, "48"], [53, "53"], [58, "58"], [63, "63"], [70, "70"], [77, "77"], [83, "83"], [90, "90"], [100, "100"]]
+  obsidianDraftTaggerTreeShowFileCount: false
+  obsidianDraftTaggerTreeShowFolderCount: false
+  obsidianTaggerTagBorderColor: "#d3d3d3"
+  obsidianDraftTaggerTreeTrailingSeparator: false

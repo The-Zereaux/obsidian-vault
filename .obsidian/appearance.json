@@ -1,0 +1,8 @@
+{
+  "name": "Default",
+  "accentColor": "#1f6feb",
+  "showEditorToolBar": true,
+  "showInlineTitle": true,
+  "hideTabIconWhenEmpty": false,
+  "usePreviewStyle": "window"
+}

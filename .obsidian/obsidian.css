@@ -1,0 +1,5 @@
+/* Custom CSS for Obsidian vault */
+:root {
+  --font-default: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-monospace: 'Fira Code', 'Cascadia Code', 'Consolas', monospace;
+}
